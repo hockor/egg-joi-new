@@ -41,7 +41,6 @@ exports.joi = {
 
 // {app_root}/config/config.default.js
 exports.joi = {
-  options: {},
   locale: {
     'zh-cn': true,  // if you don't need  error message with chinese ,you can set to false
   },
@@ -97,3 +96,8 @@ exports.joi = {
 ## License
 
 [ISC](LICENSE)
+
+
+## end
+
+如果有 message 没有覆盖全，请 pull request
