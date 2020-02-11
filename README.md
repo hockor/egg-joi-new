@@ -95,7 +95,7 @@ exports.joi = {
 
 ## License
 
-[ISC](LICENSE)
+[MIT](LICENSE)
 
 
 ## end
